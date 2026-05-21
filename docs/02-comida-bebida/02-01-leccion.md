@@ -6,4 +6,4 @@
 
 ## Ejercicio 1
 
-[Enlace al ejercicio](ejercicio-restaurante/index.html ':target=_blank')
+[Enlace al ejercicio](https://github.com/chenlo/mi-curso-github/tree/main/docs/02-comida-bebida/ejercicio-restaurante))
