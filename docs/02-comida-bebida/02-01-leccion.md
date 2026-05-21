@@ -6,4 +6,4 @@
 
 ## Ejercicio 1
 
-[Enlace al ejercicio](ejercicio-restaurante/index.html)
+[Enlace al ejercicio](ejercicio-restaurante/index.html ':target=_blank')
